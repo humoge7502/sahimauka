@@ -81,8 +81,8 @@ SahiMauka is a discovery and reminder tool. We link to official sources; always 
 
 | Field | Value |
 |---|---|
-| Privacy policy | `https://deveshtiwari1025-debug.github.io/sahimauka/privacy.html` (see `store/PRIVACY_URL.txt`) |
-| Website | `https://deveshtiwari1025-debug.github.io/sahimauka/` |
+| Privacy policy | `https://humoge7502.github.io/sahimauka/privacy.html` (see `store/PRIVACY_URL.txt`) |
+| Website | `https://humoge7502.github.io/sahimauka/` |
 | Email | use the developer Google account's contact email (required by Play Console) |
 | Phone | not required (optional field — leave empty) |
 
@@ -134,7 +134,7 @@ Reasoning (for your own records, not a form field): Play's definition of
 - stores tracked categories and reminder schedules **only in app-local
   storage** so local notifications can fire — nothing is transmitted;
 - its only network activity is downloading the public feed JSON from
-  `deveshtiwari1025-debug.github.io` (no identifiers sent) and opening
+  `humoge7502.github.io` (no identifiers sent) and opening
   official links in the browser.
 
 Because the answer is **No**:
@@ -147,7 +147,7 @@ Because the answer is **No**:
 - "Data deletion mechanism": no server-side data exists; app-local data
   (tracked categories/reminders) is removed when the user uninstalls the app.
   If the form demands a deletion-URL answer anyway, the privacy policy page
-  documents this: `https://deveshtiwari1025-debug.github.io/sahimauka/privacy.html`.
+  documents this: `https://humoge7502.github.io/sahimauka/privacy.html`.
 
 Other App-content sections (for completeness):
 
@@ -155,7 +155,7 @@ Other App-content sections (for completeness):
 |---|---|
 | Ads | **No, my app does not contain ads** |
 | Data safety summary shown to users | "No data collected, no data shared" (auto-derived from the No answer) |
-| Privacy policy URL | `https://deveshtiwari1025-debug.github.io/sahimauka/privacy.html` |
+| Privacy policy URL | `https://humoge7502.github.io/sahimauka/privacy.html` |
 
 ## 9. Target audience & content
 

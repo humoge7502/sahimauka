@@ -173,7 +173,7 @@ Play Console → Grow → **Main store listing** — copy values verbatim from
 - [ ] Phone screenshots: capture from the running app/emulator (need ≥ 2):
       feed view, item detail showing the official-source link, reminder screen
 - [ ] Privacy policy URL (paste from `store/PRIVACY_URL.txt`):
-      `https://deveshtiwari1025-debug.github.io/sahimauka/privacy.html`
+      `https://humoge7502.github.io/sahimauka/privacy.html`
 - [ ] Contact email (the developer account's monitored inbox)
 
 ## 8. App content sections (Policy → App content)
@@ -228,5 +228,5 @@ shows under Publishing overview; approval flips the release to "In production".
 | Signing config file | `sahimauka-app/android/app/build.gradle` (secrets in `android/gradle.properties`) |
 | AAB output | `sahimauka-app/android/app/build/outputs/bundle/release/app-release.aab` |
 | Store listing copy | `store/PLAY_LISTING.md` |
-| Privacy policy | `https://deveshtiwari1025-debug.github.io/sahimauka/privacy.html` |
+| Privacy policy | `https://humoge7502.github.io/sahimauka/privacy.html` |
 | Play icon / feature graphic | `brand/assets/play-icon-512.png` / `brand/assets/feature-graphic-1024x500.png` |

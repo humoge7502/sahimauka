@@ -9,15 +9,19 @@ const IS_LOCALHOST =
   (window.location.hostname === "localhost" ||
     window.location.hostname === "127.0.0.1");
 
-export const SITE_BASE = "https://humoge7502.github.io/dastakde";
+export const SITE_BASE = "https://humoge7502.github.io/sahimauka";
 
 export const FEED_BASE = IS_LOCALHOST
   ? "/feed"
   : `${SITE_BASE}/feed`;
 
-export const GITHUB_REPO = "https://github.com/humoge7502/dastakde";
+export const GITHUB_REPO = "https://github.com/humoge7502/sahimauka";
 
 export const BUSINESS_MODEL_URL = `${GITHUB_REPO}/blob/main/BUSINESS_MODEL.md`;
+
+export const ORGANIZERS_URL = `${SITE_BASE}/organizers.html`;
+
+export const COLLEGES_URL = `${SITE_BASE}/colleges.html`;
 
 export const PRIVACY_URL = `${SITE_BASE}/privacy.html`;
 
